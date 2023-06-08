@@ -22,8 +22,6 @@
   {
     "category": "Música",
     "description": "Preguntas relacionadas con la Música."
-  },
-  {
-    "urlcategoria":"https://raw.githubusercontent.com/betances74/java-bootcamp/main/categories.json"
   }
+ 
 ]
