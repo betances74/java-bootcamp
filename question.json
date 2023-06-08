@@ -1,8 +1,10 @@
-{
+[
+  {
   "category": "Geografía",
   "question": "¿Qué que isla del Caribe esta dividida en 2 paises con cultura e idioma diferente",
   "options": ["Cuba, Jamaica, Puero Rico, La Española"],
   "answer": 3,
   "explanation": "La Republica Dominicana y Haiti compraten la isla la española, son dos culturas con idioma y culturas diferentes"
  
-}
+  }
+]
