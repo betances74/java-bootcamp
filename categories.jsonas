@@ -22,5 +22,10 @@
   {
     "category": "Ciencia",
     "description": "Preguntas relacionadas con diferentes ramas de la ciencia, descubrimientos y avances científicos."
+  },
+  
+  {
+    "url categoria de trivia":"https://atl.academy/lab/trivia/index.html"
   }
+
 ]
